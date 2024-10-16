@@ -1,0 +1,26 @@
+
+
+
+
+.container1 {
+	background-color: #f2c9f2;
+}
+.container2 {
+	background-color: #d0abeb;
+	width: 264px;
+	padding: 20px;
+	margin: auto;
+	box-shadow: 2px 2px 10px rgba(5, 4, 4, 0.8 );
+}
+
+#submit{
+	background-color: #cdf5c1;
+	color: lightseagreen;
+}
+
+body{ 
+	background-image: url(https://e0.pxfuel.com/wallpapers/398/615/desktop-wallpaper-12-oakland-bay-bridge-background-for-your-mobile-tablet-explore-bay-bridge-san-francisco-san-francisco-bridge-san-francisco-bay-oakland-night-thumbnail.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: fixed;
+}
